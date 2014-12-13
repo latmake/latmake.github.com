@@ -9,8 +9,8 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Lattice
-tagline: This is a man who are crazy!
-author : Lattice
+tagline: This is a crazy man!
+author :
   name : Latm Ake
   email : latmake@gmail.com
   github : latmake
