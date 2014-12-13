@@ -9,8 +9,8 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Lattice
-tagline: 
-author :
+tagline: This is a man who are crazy!
+author : Lattice
   name : Latm Ake
   email : latmake@gmail.com
   github : latmake
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : 
+    provider : true
     disqus :
       short_name : jekyllbootstrap
     livefyre :
